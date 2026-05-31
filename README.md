@@ -12,5 +12,5 @@ A modern desktop application built with python and customtkinter that generates 
 -CustomTkinter
 -Tkinter messagebox
 
-## preview
-![Password Generator](pasword_generator.png)
+## Preview
+![password_generator](pasword_generator.png)
